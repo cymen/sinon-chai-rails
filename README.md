@@ -11,7 +11,7 @@ Installing
 Rubygems
 --------
 
-The gem is hosted on rubygems.org at [sinon-chai-rails][rubygems-gem-url]
+The gem is hosted on rubygems.org at [sinon-chai-rails][rubygems-gem-url].
 
 [sinon-chai]: https://github.com/domenic/sinon-chai
 [rubygems-gem-url]: https://rubygems.org/gems/sinon-chai-rails
