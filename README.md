@@ -21,5 +21,4 @@ As this is packaging for [Sinon-Chai][sinon-chai] it falls under the same licens
 
 [sinon-chai]: https://github.com/domenic/sinon-chai
 [rubygems-gem-url]: https://rubygems.org/gems/sinon-chai-rails
-[license-txt]: https://github.com/cymen/sinon-chai-rails/master/LICENSE.txt
-
+[license-txt]: https://github.com/cymen/sinon-chai-rails/blob/master/LICENSE.txt
