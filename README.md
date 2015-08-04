@@ -1,4 +1,4 @@
-Sinon.JS Assertions for Chai with Rails
+Sinon.JS Assertions for Chai with Rails [![Gem Version](https://badge.fury.io/rb/sinon-chai-rails.svg)](http://badge.fury.io/rb/sinon-chai-rails)
 =======================================
 
 This is a gem for [Sinon-Chai][sinon-chai] in order to use it with the Rails asset pipeline.
